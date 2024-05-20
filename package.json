@@ -30,7 +30,7 @@
     "@octokit/webhooks": "12.1.2",
     "@slack/types": "2.11.0",
     "@slack/web-api": "7.0.4",
-    "axios": "1.6.7"
+    "axios": "1.7.0"
   },
   "devDependencies": {
     "@types/node": "20.12.7",
