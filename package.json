@@ -43,6 +43,6 @@
     "prettier": "3.2.5",
     "release-it": "17.2.1",
     "sinon": "17.0.1",
-    "typescript": "5.4.5"
+    "typescript": "5.5.2"
   }
 }
