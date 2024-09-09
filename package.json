@@ -29,7 +29,7 @@
     "@instantish/mack": "1.2.0",
     "@octokit/webhooks": "12.1.2",
     "@slack/types": "2.12.0",
-    "@slack/web-api": "7.3.1",
+    "@slack/web-api": "7.4.0",
     "axios": "1.6.7"
   },
   "devDependencies": {
