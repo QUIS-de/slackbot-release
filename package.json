@@ -33,7 +33,7 @@
     "axios": "1.6.7"
   },
   "devDependencies": {
-    "@types/node": "22.0.0",
+    "@types/node": "22.5.5",
     "@types/sinon": "17.0.3",
     "@typescript-eslint/parser": "6.21.0",
     "@vercel/ncc": "0.38.1",
